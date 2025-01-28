@@ -23,6 +23,7 @@ O design possui uma estética moderna, com um toque minimalista e cores que dest
 
 - **HTML**
 - **CSS**
+- **Flex-box**
 
 
 ## 👨‍💻 Desenvolvido por 
